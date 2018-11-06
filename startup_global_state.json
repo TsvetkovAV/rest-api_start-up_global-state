@@ -1,0 +1,82 @@
+{
+    "node": {
+        "private_key": "MC4CAQEEIDFIMq+yOlIH0nwlW2J26wus6x1boTlYn8Xwd/KqQCiboAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEJeLHYa79kJz9Pem7uUQTSLSBSouttt/1TtuqmaCjT2+r6tEPlsO/v6gYLry9KUkxu0oWOHiDbGoEHjF1XpRrtw==",
+        "address": "5886a181868068c63f737074ae58936e646ed23a",
+        "wallet": {
+            "dec": 100,
+            "bgt": 100000
+        }
+    },
+    "users": [{
+        "private_key": "MC4CAQEEIF0UE7OK0ANS2eFjQhzSgybv9iwJCWm04E4k6qqyWJSnoAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEUVU/Abb7ZwtHG9WvMZVlKHcyd/xUw3r+XOdRaSI10xWVxqkjxiTN+8TOsrnD0xIPxTUv0ITaYQuQ9Q5shpK81Q==",
+        "address": "304defded3f4a71f8d75be64de4c8b601568d7e2",
+        "wallet": {
+            "dec": 20
+        }
+    }, {
+        "private_key": "MC4CAQEEIMuRCt4I3fu7fox06HfwWC03fs9ATzBVxl4Hm752YlR5oAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEIvNE2KwvjKKSFzmON1eys5dA1+UuSK46vmfc1NAcvhJXQRoEHvMRJew1y+F6/zXqPwl6Y1MHVPUawgpG2OTPZw==",
+        "address": "28c64b3f4ccc21bc81010e92e7078104a4077522",
+        "wallet": {
+            "dec": 50
+        }
+    }, {
+        "private_key": "MC4CAQEEIMAlmbbla5E+gC0Q08uIN3lypuei+0LTTZJP1bQ4xW3QoAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEajw/br8eeeNxws5mM4inA1/7HOUAH+o1ceAVF2bHrMk+OVGWhfYO4S3Ir/ihKyqPrbMyrlvu9KYxbsq1HoBX8w==",
+        "address": "d19701f30661782ac30b11521148badcb7874534",
+        "wallet": {
+            "dec": 80
+        }
+    }, {
+        "private_key": "MC4CAQEEIN3m7s6+nD0HG66eWx6ph5J6kXKB2kSJAQNqXNHY7DAFoAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAE66gRNBvaWZmboJex2qSYww5907fxKaqV6ri3NW2DfsRZLQ0/IeG8t4UeHRegg1yAJFgZU/ihVEHwsx1KMEEf1g==",
+        "address": "5688216472a96941eec96cf9a5ca202f090bb7bd",
+        "wallet": {
+            "bgt": 100
+        }
+    }, {
+        "private_key": "MC4CAQEEIMX1+aaYBBwf7oHtcjr4NEYLbvCNI0Y1Atg5Qti3xIRYoAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAECKe/pmQOTPxEK9/mVRbnxvR5S7ZrNH0pH5tvznaczMdSZyY2vvWnwIWOpCKT2vQaJKBGXbWZxSANbc6f58bn0w==",
+        "address": "95ef6dcea1dbb0598e1bd094b57ca9c241232d56",
+        "wallet": {
+            "bgt": 200
+        }
+    }, {
+        "private_key": "MC4CAQEEIN5I3Rd3U/0uZ9D+3qY/12U8X8XTti73YpId2QUnzEZUoAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAECkayIOZ6enQ9Q3Rz2jSEPH+t0THLtDNJoVNYndwTdeGwwt+f6sGN9ABprdzvxeailLo/3E/wiZGoHw782JshpQ==",
+        "address": "4aa37a37b9793a7f3696129d9a367b26fd0b2b1c",
+        "wallet": {
+            "bgt": 300
+        }
+    }, {
+        "private_key": "MC4CAQEEIEl8UH0qpL7Xj3LvTY8m3TtiMBJDOhm+qtRdvjH4ADUaoAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAE3OfSOzfOwL6n31meJStzkVnWxlVWYrMWZglOSUtkx7GQ6pmg+p/lhwTIDMPzXUqNpNgQJAibM8aDFcwfY1sDdQ==",
+        "address": "673fcacfb51214e0543b786da79956b541e7d792",
+        "wallet": {
+            "bgt": 400
+        }
+    }, {
+        "private_key": "MC4CAQEEIEBR/EcoAQi+1c+YVrtx+6XgX6jlqLKZvaie4yfdFOyMoAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEEy97anK7XTBsi7VmmBhgTebdBT0kpHYGdCrGWQRZzaA3WO5MHPnwq5kZFdGJxLo1Y4IW5DFvdsI1Kd2PgW5DfA==",
+        "address": "d7d24d1c1ca78c63769ea99d563cb259311d2d62",
+        "wallet": {
+            "bgt": 500
+        }
+    }, {
+        "private_key": "MC4CAQEEINern+6wXeTK2LyYu/LJPbD/y/gkNB6z+uDYhsnRVgsIoAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEKXYDk49lF/qbju1NyolZROe7zpl7hm1Zn8aGf3PmbnIKMar4+MlgWpPAfEbZn513aGIhxNxr7ScKo34Gj8DjUg==",
+        "address": "3785dd81e34ccb81b923b581f37725a85c8e4bba",
+        "wallet": {
+            "bgt": 600
+        }
+    }, {
+        "private_key": "MC4CAQEEIDYMTT252wXmqHo7Jru8Ou4H27FPcgLzK7EV8XTkHlrAoAcGBSuBBAAK",
+        "public_key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEfsaMd7+Vz0D5A/y7wx3jNJioHlUKHBIbmJui8Jrz4Y4mdLDJ5GkYGykST9yDuemJQqWsuDCFpxxBNcSXP/B7hw==",
+        "address": "725658920183dbbea93bc72c6ce40e5575c35b62",
+        "wallet": {
+            "bgt": 700
+        }
+    }]
+}
